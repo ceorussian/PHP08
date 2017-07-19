@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	height:835px;
+	width:600px;
+	border-bottom:5px solid #FF0;
+	border-left:15px solid #936;
+	border-top:5px solid #FF0;
+	border-right:5px solid #CCC;
+	margin:auto;
+	}
+#left{
+	height:835px;
+	width:270px;
+	float:left;
+	background: #09F;
+	}
+img{
+	border-radius:10px;
+	margin-top:20px;
+	margin-left:70px;
+	}
+p.name{
+	font-size:24px;
+	font-weight:bold;
+	color:#FFF;
+	text-align:center;
+	}
+p.nghe{
+	margin-top:-40px;
+	text-align:center;
+	font-size:19px;
+	color:#FFF;
+}
+.h2{
+	height:40px;
+	width:40px;
+	}
+.h2 img{
+	margin-left:-2px;
+	margin-top:0px;
+	}
+.h3{
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+	}
+.ns img{
+	margin-left:5px;
+	margin-top:0px;
+	}
+.nsinh{
+	color:#FFF;
+	}
+.gioitinh img{
+	margin-left:5px;
+	margin-top:0px;
+	}
+.gtinh{
+	font-size:24px;
+	color:#FFF;
+	font-weight:bold;
+	}
+.phone img{
+	margin-left:5px;
+	margin-top:0px;
+	}
+.sdt{
+	background:#FFF;
+	}
+.mail img{
+	margin-left:5px;
+	margin-top:0px;
+	}
+.email{
+	background:#FFF;
+	}
+.diachi img{
+	margin-left:5px;
+	margin-top:0px;
+	}
+.adress{
+	background:#FFF;
+	}
+.lienhe img{
+	margin-left:5px;
+	margin-top:0px;
+	}
+.lh{
+	background:#FFF;
+	}
+.mt{
+	font-size:20px;
+	color:#FFF;
+	font-weight:bold;
+	text-align:center;
+	}
+#right{
+	height:835px;
+	width:325px;
+	float:right;
+	background:#eeede9;
+	}
+.hv{
+	color:#36F;
+	font-size:20px;
+	font-weight:bold;
+	}
+.ngay img{
+	margin-left:5px;
+	margin-top:2px;
+	}
+.kn{
+	color:#36F;
+	font-size:17px;
+	font-weight:bold;
+	}
+.cc{
+	color:#36F;
+	font-size:17px;
+	font-weight:bold;
+	}
+.click{
+	font-size:20px;
+	}
