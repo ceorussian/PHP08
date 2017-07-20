@@ -1,0 +1,313 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	}
+body{
+	height:auto;
+	width:1277px;
+	border:1px solid #000;
+	margin:auto;
+	}
+#header{
+	border:1px solid #000;
+	height:100px;
+	width:auto;
+	}
+#menu{
+	height:42px;
+	width:auto;
+	background:#AE1A1F;
+	}
+#menu ul li{
+	float:left;
+	color:#FF0;
+	list-style:none;
+	line-height:40px;
+	}
+#menu ul li a{
+	color:#FF0;
+	text-decoration:none;
+	font-size:12px;
+	display:inline-block;
+	padding:0 20px 0 20px;
+	}
+#menu ul .li1{
+	margin-left:60px;
+	background:black;
+	}
+#menu ul .li1 a:hover{
+	background:black;
+	color:#FF0;
+	}
+#menu ul li a:hover{
+	background:#FF0;;
+	color:#000;
+	}
+#content{
+	height:auto;
+	width:1150px;
+	margin:auto;
+	padding-top:10px;
+	}
+.ct1{
+	height:40px;
+	width:auto;
+	margin-top:5px;
+	background:#CCC;
+	border-left:4px solid #AE1A1F;
+	line-height:40px;
+	padding-left:20px;
+	color:#C33;
+	font-weight:bold;
+	transition: font-size 1s ease-out 1s, color 1s ease-in 1s;
+	}
+.ct1:hover{
+	 cursor: pointer;
+	 font-size: 30px;
+	 color:#FF0;
+	}
+.ct2{
+	height:430px;
+	width:auto;
+	margin-top:5px;
+	}
+.ct21{
+	width:370px;
+	height:430px;
+	float:left;
+	font-size:14px;
+	}
+.tieude{
+	padding-left:5px;
+	padding-top:5px;
+	font-size:14px;
+	}
+.tieude a{
+	text-decoration:none;
+	}
+.tieude a:hover{
+	color:#960;
+	}
+.nd{
+	padding-left:10px;
+	padding-top:5px;
+	font-size:15px;
+	}
+.ct22{
+	width:380px;
+	height:430px;
+	float:left;
+	margin-left:5px;
+	}
+.ct23{
+	width:380px;
+	height:430px;
+	float:left;
+	margin-left:5px;
+	}
+.hinhnd{
+	float:left;
+	margin-top:7px;
+	margin-right:4px;
+	}
+.ct3{
+	margin-top:5px;
+	height:610px;
+	width:auto;
+	}
+.ct31{
+	height:610px;
+	width:280px;
+	float:left;
+	margin-left:5px;
+	}
+.tieude2 a{
+	text-decoration:none;
+	color:#000;
+	}
+.tieude2 a:hover{
+	color:#C33;
+	}
+.hk{
+	font-weight:bold;
+	padding-top:3px;
+	color:#963;
+	}
+.chitiet{
+	height:30px;
+	width:100px;
+	margin:auto;
+	color:#FFF;
+	background:#AE1A1F;
+	text-align:center;
+	line-height:30px;
+	}
+.chitiet a{
+	text-decoration:none;
+	color:#FFF;
+	}
+.chitiet a:hover{
+	color:#FF0;
+	}
+.hinhnd1{
+	float:left;
+	margin-top:5px;
+	margin-right:2px;
+	}
+.ct32{
+	height:610px;
+	width:280px;
+	float:left;
+	margin-left:5px;
+	}
+.ct33{
+	height:610px;
+	width:280px;
+	float:left;
+	margin-left:5px;
+	}
+.ct34{
+	height:610px;
+	width:280px;
+	float:left;
+	margin-left:5px;
+	}
+.ct4{
+	width:auto;
+	height:400px;
+	margin-top:5px;
+	}
+.loiich{
+	padding-top:10px;
+	font-size:20px;
+	}
+.loiich a{
+	text-decoration:none;
+	color: #000;
+	}
+.loiich a:hover{
+	color:#C30;
+	}
+.ct41{
+	float:left;
+	height:320px;
+	width:280px;
+	margin-left:2px;
+	}
+.ct4 img{
+	padding-top:20px;
+	}
+.tdct4{
+	padding-top:20px;
+	font-weight:bold;
+	}
+.tdct41{
+	font-size:20px;
+	}
+.ct42{
+	float:left;
+	height:320px;
+	width:280px;
+	margin-left:5px;
+	}
+.ct43{
+	float:left;
+	height:320px;
+	width:280px;
+	margin-left:5px;
+	}
+.ct44{
+	float:left;
+	height:320px;
+	width:280px;
+	margin-left:5px;
+	}
+.bangtieude td{
+	background:#AE1A1F;
+	color:#FFF;
+	text-align:center;
+	line-height:40px;
+	font-weight:bold;
+	}
+.kh a{
+	text-decoration:none;
+	color:#000;
+	font-weight:bold;
+	padding-left:5px;
+	}
+.kh a:hover{
+	color:#C30;
+	}
+.ct5{
+	
+	width:auto;
+	height:400px;
+	margin-top:15px;
+	}
+.ct51{
+	float:left;
+	height:400px;
+	width:400px;
+	}
+.ct52{
+	float:left;
+	height:400px;
+	width:740px;
+	margin-left:5px;
+	background:#C60;
+	}
+.ct511{
+	height:40px;
+	width:375px;
+	margin-top:5px;
+	background:#CCC;
+	border-left:4px solid #AE1A1F;
+	line-height:40px;
+	padding-left:20px;
+	color:#C33;
+	font-weight:bold;
+	transition: font-size 1s ease-out 1s, color 1s ease-in 1s;
+	}
+.ct511:hover{
+	 cursor: pointer;
+	 font-size: 30px;
+	 color:#FF0;
+	}
+.danang{
+	width:400px;
+	}
+.video{
+	padding-top:10px;
+	}
+#footer{
+	height:150px;
+	width:auto;
+	}
+.f1{
+	height:150px;
+	width:630px;
+	float:left;
+	}
+.f2{
+	height:150px;
+	width:640px;
+	float:left;
+	}
+.anh{
+	transition:2s;
+	filter:invert(80%);
+	}
+	.anh:hover{
+	transform:translateY(-30px);
+	}
+.anh1{
+	transition:2s;
+	filter:invert(80%);
+	}
+	.anh1:hover{
+	transform:scaleX(2);
+	}
+	
